@@ -7,13 +7,14 @@ It is a simple shell MacOS Theme installer to ElementaryOS
 
 ```console
 $ cd [path-to-intaller]
-$ sudo chmod a+x ./installer.sh
-$ ./installer.sh
+$ sudo chmod a+x ./install.sh
+$ ./install.sh
 ```
 
-3. Postpone install, open the system settings.
+3. Select Dock theme to MacOS-Dock
+4. Open the system settings.
 4. Click in Tweaks.
 5. Change Theme to Sierra (light or dark)
-6. Make session out and sign in again.
+6. Log out and sign in again.
 
 DONE.
