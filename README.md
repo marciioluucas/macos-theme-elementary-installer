@@ -5,9 +5,11 @@ It is a simple shell MacOS Theme installer to ElementaryOS
 1. Clone or download this repository
 2. Case you has downloaded, extract .zip file and type the commands bellow
 
-`$ cd [path-to-intaller]`
-`$ sudo chmod a+x ./installer.sh`
-`$ ./installer.sh`
+```console
+$ cd [path-to-intaller]
+$ sudo chmod a+x ./installer.sh
+$ ./installer.sh
+```
 
 3. Postpone install, open the system settings.
 4. Click in Tweaks.
